@@ -1,5 +1,7 @@
-honeycombs
-==========
+Honeycombs jQuery Plugin
+========================
+
+Example: http://examples.rabbid.net/honeycombs/demo.html
 
 jQuery plugin for displaying images in a responsive honeycomb grid with caption support
 
