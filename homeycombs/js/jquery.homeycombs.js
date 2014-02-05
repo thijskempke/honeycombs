@@ -94,7 +94,7 @@
                     
                     if(animate == true){
                         $(this).stop(true, false);
-                        $(this).animate({'left': left}).animate({'top': top});
+                        $(this).animate({'left': left, 'top': top});
                     }else{
                         $(this).css('left', left).css('top', top);
                     }
