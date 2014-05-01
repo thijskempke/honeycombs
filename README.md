@@ -1,7 +1,9 @@
 Honeycombs jQuery Plugin
 ========================
 
-Warning: I dont have the time to support this plugin. If you want to use it, use it at your own risk and if you want aditional functionality, feel free to fork the project and extend it. If you want to maintain this plugin feel free to contact me.
+
+**Warning: I dont have the time to support this plugin. If you want to use it, use it at your own risk and if you want aditional functionality, feel free to fork the project and extend it. If you want to maintain this plugin feel free to contact me.**
+
 
 Example: http://examples.rabbid.net/honeycombs/demo.html
 
